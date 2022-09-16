@@ -1,8 +1,8 @@
 # GET aHEAD
 
-Score: 20 points
-Tags: `picoCTF 2021` `Web Exploitation`
-Author: MADSTACKS
+- Score: 20 points
+- Tags: `picoCTF 2021` `Web Exploitation`
+- Author: MADSTACKS
 
 ## Description
 
